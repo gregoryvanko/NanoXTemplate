@@ -1,4 +1,4 @@
-async function Start({Port = 9000, Name = "Nanox",  Debug = false, SplashScreenFilePath = null, MongoDbUrl = "mongodb://localhost:27017"} = {}){
+async function Start({Port = 9000, Name = "NewApp",  Debug = false, SplashScreenFilePath = null, MongoDbUrl = "mongodb://localhost:27017"} = {}){
     // Define default SplashScreenFilePath
     if (SplashScreenFilePath == null){SplashScreenFilePath = __dirname + "/Frontend/SplashScreen/SplashScreen.html"}
 
