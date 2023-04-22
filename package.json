@@ -1,7 +1,7 @@
 {
-  "name": "@gregvanko/aquagreen",
+  "name": "@gregvanko/newapp",
   "version": "3.3.0",
-  "description": "Aquagreen",
+  "description": "NewApp",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --inspect=0.0.0.0:9229 exemple.js",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gregoryvanko/Aquagreen.git"
+    "url": "git+https://github.com/gregoryvanko/NewApp.git"
   },
   "author": "gregvanko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gregoryvanko/Aquagreen/issues"
+    "url": "https://github.com/gregoryvanko/NewApp/issues"
   },
-  "homepage": "https://github.com/gregoryvanko/Aquagreen#readme",
+  "homepage": "https://github.com/gregoryvanko/NewApp#readme",
   "dependencies": {
     "@gregvanko/nanox": "^1.69.0"
   }
