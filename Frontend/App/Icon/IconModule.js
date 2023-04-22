@@ -2,6 +2,7 @@ class IconModule{
     constructor(){}
 
     static Start(Color = "black"){
+        // svg template
         return `<svg height="100%" width="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         <defs/>
         <g id="Calque-1">
